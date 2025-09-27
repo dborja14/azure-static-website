@@ -12,13 +12,9 @@ This project demonstrates how to host a static HTML website using an Azure Stora
 
 ## 📷 Screenshots
 
-![Azure Settings](screenshots/static-website-settings.png)
-![Live Website](screenshots/website-preview.png)
+![Azure Settings](screenshots/static-website-settings.jpg)
+![Live Website](screenshots/static-website.jpg)
 
-## 🔗 Live (Temporarily)
-[View Website](https://darrylstaticwebxyz.z13.web.core.windows.net)
-
-⚠️ Site may be taken down to avoid exceeding free tier.
 
 ## 🧠 What I Learned
 
